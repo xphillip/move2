@@ -1,3 +1,3 @@
 <?php
-header("Location: http://apromotora.com/move2");
+header("Location: http://assuncaopromotora.com/move2");
 ?>
